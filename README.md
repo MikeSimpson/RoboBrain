@@ -8,3 +8,5 @@ Also being developed is a Android Wear version which connects directly to
 the robot over bluetooth.
 A video streaming component is intended in future to allow the 'pilot' access to the
 other device's camera remotely.
+
+See it in action at https://vimeo.com/165574440
